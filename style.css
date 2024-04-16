@@ -1,0 +1,248 @@
+body{
+    overflow-x: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+.heading{
+    display: flex;
+    padding-top: 10px;
+}
+.login ul li{
+    display: inline-flex;
+    margin-top: px;
+    
+}
+
+
+li img{
+    
+    margin: 5px;
+}
+.login{
+    
+}
+#login2>li{
+    display: inline;
+}
+#herosection{
+    display: flex;
+}
+#herosection{
+    margin-top: 20vh;
+    justify-content: space-between;
+}
+#herosection2{
+    display: flex;
+    margin-top:10vh ;
+    justify-content: space-between;
+    gap: px;
+}
+#herosection2 img{
+    display: flex;
+   
+    justify-content: space-around;
+    
+    
+}
+.img2{
+    margin-right: 30vw;
+    margin-top: 30vh;
+    width: vw;
+}
+.img img{
+    width: 100px ;
+}
+#herosection4{
+    display: flex;
+    margin-left: 25px;
+    
+}
+#herosection4 div img{
+    margin: px;
+    overflow-x: none;
+   
+
+}
+.child{
+    margin-left: 58px;
+    width: 860.95px;
+height: 538.09px;
+
+}
+.child1{
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 105px;
+}
+
+hr{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10vh;
+}
+.team1{
+    width: 630px;
+    
+    margin-left: 70px;
+}
+#teaming{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10vh;
+
+}
+.team2{
+    margin-right: 52px;
+
+}
+.team2 img{
+    width: 300px;
+    margin-right: 20px;
+}
+.design1 img{
+    margin-top: 20px;
+}
+.design1{
+    overflow-x: hidden;
+    margin-left:5%;
+}
+.design2 img{
+width: 1050px;
+margin-left: 100px;
+}
+#system{
+    display: flex;
+    justify-content: space-;
+    margin-top: 10px;
+}
+.hr hr{
+    
+}
+button{
+    width: 179.36px;
+height: 38px;
+top: 129px;
+padding: 7px, 11.6px, 8px, 15px;
+border-radius: 5px;
+border: 1px;
+
+}
+#setting1{
+    justify-content: space-between;
+    margin-top: 50px;
+
+    display: flex;
+}
+.paragraph{
+    margin-left: 65px;
+}
+.templete{
+    margin-right: 80px;
+}
+#comping{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px ;
+}
+.company1{
+margin-left: 23px;
+}
+.company3{
+    margin-right: 25px;
+    }
+    .button button{
+        width: 45.28px;
+        height: 38px;
+        padding: 8px, 14.8px, 10px, 15px;
+        border-radius: 5px;
+        border: 1px;
+        
+    }
+    .button{
+        margin-left: 58px;
+        margin-top: 20px;
+    }
+    #button4{
+        width: 242.39px;
+height: 38px;
+top: 97px;
+padding: 7 10.400039672851562 8 15;
+border-radius: 5   ;
+border: 1;   
+
+    }
+    #containering{display: flex;
+      margin-top: 5%;
+        justify-content: space-between;
+    
+    }
+.img00 img{
+        width: 360px;
+height: 230.39px;
+
+
+
+
+    }
+    .paragraph111
+    {
+        margin-left: 4%;
+    }
+    .img00{
+        margin-right: 4%;
+    }
+    #jjjjjjj{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 4%;
+    }
+    .icon1{
+        margin-left: 4%;
+    }
+    .icon5{
+        margin-right: 5%;
+    }
+    #kkkkkkk{
+        display: flex;
+        margin-top: 5%;
+    }
+    .photos1{
+        margin-top: 18%;
+        margin-left: 5%;
+    }
+    .try{
+        margin-left: 13%;
+    }
+    .navigation{
+        margin-left: 5%;
+    }
+    #uuuuuu{
+        display: flex;
+       margin: 20px;
+        width: 1350px;
+    }
+    #uuuuuu div{
+        margin: 3%;
+    }
+    .footer1
+    {
+        display: flex;
+        margin-left: 3%;
+    }
+    .footer1 div{
+    margin: 10px;
+    }
+    #hhhhh{
+        display: flex;
+        justify-content: space-between;
+    }
+    .footerlogo{
+        margin-right: 3%;
+        
+    }
+    .footerlogo img{
+        margin: 5px;
+    }
